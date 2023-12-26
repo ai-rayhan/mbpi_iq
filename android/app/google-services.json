@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "906803272367",
+    "project_id": "iq-profiler-mbpi",
+    "storage_bucket": "iq-profiler-mbpi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906803272367:android:9a0c62b5dc2c70e03b925a",
+        "android_client_info": {
+          "package_name": "com.example.mbpi_iq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuZOzyHnFi5JDZJLU-f8qNhxdfm6bHMAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
